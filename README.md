@@ -7,8 +7,6 @@ Hi, I'm Jeon! I'm Back-End Engineer living in Korea.
 
 📫 Reach me: [jeon@kakao.com](mailto://jeon@kakao.com)
 
-[![Jeon's github stats](https://github-readme-stats.vercel.app/api?username=DevJeon1358&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **DevJeon1358/DevJeon1358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
